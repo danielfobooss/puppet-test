@@ -5,3 +5,4 @@ $str = 'hey'
 $message = sha1($str)
 $postgresql_version = '9.6'
 $cenas = 'hi'
+$cenas = 'hi'
